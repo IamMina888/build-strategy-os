@@ -1,2 +1,11 @@
-# build-strategy-os
-Core repository for Build Strategy OS – a centralized creative operations and marketing system built by Mina Grace B. Tecson.
+
+  # buildstrategywithmina.com
+
+  This is a code bundle for buildstrategywithmina.com. The original project is available at https://www.figma.com/design/Fdls5Hlv4z72nUPAlZ36pi/buildstrategywithmina.com.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  

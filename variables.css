@@ -1,0 +1,48 @@
+/* ===== Brand Fonts (optional) ===== */
+@import url("https://fonts.googleapis.com/css2?family=Marcellus+SC&family=Lato:wght@300;400;700&display=swap");
+
+/* ===== BuildStrategyWithMina – Brand Tokens ===== */
+:root {
+  /* Colors */
+  --brand-primary: #1e5945;          /* Deep Green */
+  --brand-secondary: #2c7a6f;        /* Mid Green */
+  --brand-accent: #cfae4d;           /* Gold */
+  --brand-ivory: #fdfbf7;
+  --brand-white: #ffffff;
+  --brand-charcoal: #1c1c1c;
+  --brand-soft-gray: #6e6e6e;
+
+  /* Variations */
+  --brand-primary-hover: #163f32;
+  --brand-accent-light: rgba(207,174,77,0.12);
+  --brand-accent-border: rgba(207,174,77,0.35);
+  --brand-accent-outline: rgba(207,174,77,0.35);
+
+  /* UI backgrounds & overlays */
+  --ui-bg-light: var(--brand-white);
+  --ui-bg-dark: var(--brand-charcoal);
+  --ui-overlay-light: rgba(255,255,255,0.6);
+  --ui-overlay-dark: rgba(0,0,0,0.6);
+
+  /* Type */
+  --font-heading: "Marcellus SC", serif;
+  --font-body: "Lato", system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+}
+
+/* ===== Utility helpers (keep your existing class names) ===== */
+.text-gold  { color: var(--brand-accent); }
+.bg-gold    { background-color: var(--brand-accent); }
+.text-deep  { color: var(--brand-primary); }
+.bg-deep    { background-color: var(--brand-primary); }
+
+.surface-soft {
+  background: linear-gradient(180deg, rgba(0,0,0,.45), rgba(0,0,0,.10));
+  border: 1px solid var(--brand-accent-border);
+}
+
+/* Optional quick buttons if you need them */
+.btn { display:inline-flex; align-items:center; gap:.5rem; padding:.75rem 1rem; border-radius:999px; font-weight:700; }
+.btn-primary   { background: var(--brand-primary); color: var(--brand-white); }
+.btn-primary:hover   { background: var(--brand-primary-hover); outline:1px solid var(--brand-accent); }
+.btn-secondary { background: var(--brand-accent); color: var(--brand-primary); }
+.btn-secondary:hover { filter: brightness(0.94); }
