@@ -35,8 +35,6 @@ Public preview:
 https://retain-ion-22232587.figma.site/
   ## Running the code
 
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-
+Run `npm install` to install dependencies.
+Run `npm run dev` to start the local development server.
   
