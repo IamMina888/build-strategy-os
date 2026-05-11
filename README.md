@@ -1,8 +1,8 @@
 🌱 Initial Commit – Build Strategy OS™: Chaos → Clarity
 
-This is the foundational commit of Build Strategy OS™ — a system built from real-world operational challenges and developed from real-world operational complexity. It was inspired by one unforgettable experience working with a client whose business was drowning in scattered workflows, disorganized marketing, and operational overwhelm.
-
-Rather than reacting to operational bottlenecks, Build Strategy OS™ was designed to centralize workflows, improve visibility, and support scalable execution. A centralized, scalable operations and creative strategy OS designed to bring clarity, control, and growth where there was once only confusion.
+This is the foundational commit of Build Strategy OS™ — a system developed from real-world operational complexity and built to turn scattered workflows into scalable execution.
+Rather than reacting to operational bottlenecks, Build Strategy OS™ was designed to centralize workflows, improve visibility, and support scalable execution. 
+It serves as a centralized operations and creative strategy OS designed to bring clarity.
 
 💡 What’s included in this milestone:
 
@@ -26,9 +26,13 @@ This commit isn’t just code — it’s the foundation of a platform designed t
 
   # buildstrategywithmina.com
 
-  This is a code bundle for buildstrategywithmina.com. The original project is available at https://www.figma.com/make/b8XcTnQFc06sH4J1t0JEPh/%F0%9F%A5%87-Strategic-Operations-Platform?t=QmVV219mXJ9VfDCX-20&fullscreen=1
-  And you can view it publicly in this domain - https://retain-ion-22232587.figma.site/
+This is the code bundle for buildstrategywithmina.com.
 
+Original Figma project:
+https://www.figma.com/make/b8XcTnQFc06sH4J1t0JEPh/%F0%9F%A5%87-Strategic-Operations-Platform?t=QmVV219mXJ9VfDCX-20&fullscreen=1
+
+Public preview:
+https://retain-ion-22232587.figma.site/
   ## Running the code
 
   Run `npm i` to install the dependencies.
