@@ -26,7 +26,7 @@ This commit isn’t just code — it’s the foundation of a platform designed t
 
   # buildstrategywithmina.com
 
-  This is a code bundle for buildstrategywithmina.com. The original project is available at https://www.figma.com/design/Fdls5Hlv4z72nUPAlZ36pi/buildstrategywithmina.com.
+  This is a code bundle for buildstrategywithmina.com. The original project is available at https://retain-ion-22232587.figma.site/
 
   ## Running the code
 
